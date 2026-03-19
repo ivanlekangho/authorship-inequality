@@ -69,7 +69,6 @@ This operationalization allows apples-to-apples comparison across fields and tea
 ```
 ├── README.md
 ├── LICENSE
-├── .gitignore
 ├── Authorship_Inequality_Code.ipynb     # full analysis — data collection through visualization
 ├── Authorship_Inequality_Poster.pdf     # final research poster
 └── figures/                             # all saved visualizations (PNG, 300dpi)
