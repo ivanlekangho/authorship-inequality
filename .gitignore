@@ -1,0 +1,36 @@
+# ── Data files (too large + not yours to redistribute) ──
+data_raw/
+data_intermediate/
+data_final/
+*.json
+*.parquet
+*.csv
+
+# ── Jupyter ──
+.ipynb_checkpoints/
+*.pyc
+__pycache__/
+
+# ── Environment ──
+.env
+*.env
+venv/
+.venv/
+env/
+
+# ── macOS ──
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# ── Windows ──
+Thumbs.db
+desktop.ini
+
+# ── VS Code / editors ──
+.vscode/
+.idea/
+
+# ── Logs ──
+*.log
+logs/
