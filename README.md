@@ -48,8 +48,8 @@ For each paper, we calculated the probability that the last author is from the G
 ├── README.md
 ├── LICENSE
 ├── .gitignore
-├── Final_Project_Savya_and_Ivan.ipynb   # full analysis notebook
-├── DATASCI_112_Project_Poster.pdf       # poster presented at class
+├── Authorship_Inequality_Code.ipynb     # full analysis notebook
+├── Authorship_Inequality_Poster.pdf     # poster presented at class
 └── figures/                             # saved visualizations
 ```
 
